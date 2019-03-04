@@ -6,7 +6,7 @@ end
 
 def create_an_array
   
-  pokemon_gen1 = ["Mew", "Zapdos", "Articuno"]
+  pokemon_gen1 = ["Mew", "Zapdos", "Articuno", "Mewtwo"]
   
 end
 
