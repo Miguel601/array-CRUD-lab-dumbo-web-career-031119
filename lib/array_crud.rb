@@ -10,7 +10,9 @@ def create_an_array
   
 end
 
-def add_element_to_end_of_array(pokemon_gen1, "Moltres")
+def add_element_to_end_of_array(array, element)
+  
+  pokemon_gen1 = ["Mew", "Zapdos", "Articuno", "Mewtwo"]
   
   pokemon_gen1.push("Moltres")
   
