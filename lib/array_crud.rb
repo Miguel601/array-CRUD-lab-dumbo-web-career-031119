@@ -1,19 +1,24 @@
 def create_an_empty_array
-  create_an_empty_array = []
+  
+  pokemon_gen1 = []
   
 end
 
 def create_an_array
-  create_an_array = ["Mew", "Zapdos", "Articuno"]
+  
+  pokemon_gen1 = ["Mew", "Zapdos", "Articuno"]
   
 end
 
 def add_element_to_end_of_array(array, element)
   
+  pokemon_gen1 << "Moltres"
   
 end
 
 def add_element_to_start_of_array(array, element)
+  
+  pokemon_gen1.unshift("Charizard")
   
 end
 
